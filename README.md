@@ -27,3 +27,9 @@ To address this problem statement emoji library of python is used. The Python em
 
 ![newplot](https://user-images.githubusercontent.com/86731206/224532803-eb1ef85b-e8ba-4828-a4c2-89b8029546af.png)
 
+### 4. Collecting entire data from Youtube
+As per the problem statement there is need tto create a dataframe which contains entire data (which contains merging of data from individual CSV files). A Pandas library has been used to address this statement.
+#### Outcomes:
+Total Data after merging: 
+- Rows: 375942
+- Columns: 7
