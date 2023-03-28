@@ -1,4 +1,4 @@
-# Youtube-Data-Analysis
+# Youtube-text-Data-Analysis
 In this study, YouTube data was used, and several analyses were conducted in accordance with problem descriptions. Data comprises of 0.6 million entries.
 
 ## Problem Statement:
